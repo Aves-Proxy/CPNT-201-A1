@@ -1,6 +1,6 @@
-Katherine Kapiga
-Freelance Artist
-Freelance artists provide the service of creating custom artwork for clients.
+Katherine Kapiga  
+Freelance Artist  
+Freelance artists provide the service of creating custom artwork for clients.  
 
 ## Responsibilities
 - Advertising and pricing your work.
