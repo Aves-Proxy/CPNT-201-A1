@@ -2,7 +2,7 @@ Katherine Kapiga
 Freelance Artist
 Freelance artists provide the service of creating custom artwork for clients.
 
-##Responsibilities
+## Responsibilities
 - Advertising and pricing your work.
 - Fulfilling a client's order.
 - Informing clients of progress or delays.
